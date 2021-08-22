@@ -1,0 +1,20 @@
+body {
+    font-family: Open Sans, sans-serif;
+}
+
+.form-control{
+    border-radius: 1px !important;
+    box-shadow: none !important;
+}
+
+.form-control:focus {
+    box-shadow: none !important;
+}
+
+.margin {
+    margin: 50px 0;
+}
+
+.text-lite-bold{
+    font-weight: 600 !important;
+}
